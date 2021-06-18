@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Remon Sinnema, but you may call me Ray. I'm a Software Architect who loves to get some code in every once in a while.
+My name is Rémon Sinnema, but you may call me Ray. I'm a Software Architect who loves to get some code in every once in a while.
 For more about my work, see my [LinkedIn profile](https://www.linkedin.com/in/remonsinnema/).
